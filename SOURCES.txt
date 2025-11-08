@@ -1,0 +1,8 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+OscarPy.egg-info/PKG-INFO
+OscarPy.egg-info/SOURCES.txt
+OscarPy.egg-info/dependency_links.txt
+OscarPy.egg-info/top_level.txt

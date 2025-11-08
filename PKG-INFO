@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: OscarPy
+Version: 0.2
+Summary: Easy time in OscarPy library
+Author: OscarPy
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: MIT License
+License-File: LICENSE.txt
+Dynamic: author
+Dynamic: classifier
+Dynamic: license-file
+Dynamic: summary
